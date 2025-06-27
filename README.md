@@ -128,19 +128,23 @@ pip install -r requirements.txt
 
 ## 📊 Output Previews
 
-> *(Replace these with actual simulation outputs)*
+> a visualization sample*
 
-### Poisson Process
+### Brownian_motion
 
-![Poisson Process](https://via.placeholder.com/600x300/003366/ffffff?text=Poisson+Event+Timeline)
-
-### 3D Random Walk
-
-![3D Random Walk](https://via.placeholder.com/400x300/660033/ffffff?text=3D+Path+Visualization)
+![Brownian_motion](https://github.com/user-attachments/assets/4ff47f23-c4ff-4283-99bb-54538d970f36)
 
 ### Markov Chain
 
-![Markov Chain Traversal](https://via.placeholder.com/500x300/336600/ffffff?text=Markov+State+Transitions)
+![Markov Chain Traversal](https://github.com/user-attachments/assets/dd37af01-ddd3-48b3-af67-8a0712b9939e)
+
+### Poisson Process
+
+![Poisson Process](https://github.com/user-attachments/assets/d71b5529-b7ba-4b61-8ae7-6e6f5f9e1ca6)
+
+### 3D Random Walk
+
+![3D Random Walk](https://github.com/user-attachments/assets/34ba2788-8dcb-4505-9ea5-f6ece1f19201)
 
 ---
 
