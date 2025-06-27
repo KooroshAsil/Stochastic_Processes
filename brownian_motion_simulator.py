@@ -244,7 +244,7 @@ def brownian_motion_3d(start=(0, 0, 0), thetha=1, num_moves=100, show=True,
 
 
 if __name__ == "__main__":    
-    pos1d = brownian_motion_1d(start=0, thetha=1, num_moves=100, random_state=42, animated=True)
+    pos1d = brownian_motion_1d(start=0, thetha=1, num_moves=100, random_state=42, animated=False)
     pos2d= brownian_motion_2d(start=(0, 0), thetha=2, num_moves=100, random_state=42, animated=True)
     pos3d= brownian_motion_3d(start=(0, 0, 0), thetha=3, num_moves=100, random_state=42, animated=True)
     # i would now like a brownie to eat 
