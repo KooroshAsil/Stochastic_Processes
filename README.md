@@ -11,11 +11,11 @@ This Python suite simulates and visualizes key stochastic processes using scient
 
 ```
 
-stochastic-simulations/
-├── brownian\_motion\_simulator.py   # 1D-3D Brownian motion simulations
-├── markov\_chain\_simulator.py      # Animated Markov chain traversals
-├── poisson\_process\_simulator.py   # Event occurrence simulations
-├── random\_walk\_simulator.py       # Multi-dimensional random walks
+Stochastic_Processes
+├── brownian_motion_simulator.py   # 1D-3D Brownian motion simulations
+├── markov_chain_simulator.py      # Animated Markov chain traversals
+├── poisson_process_simulator.py   # Event occurrence simulations
+├── random_walk_simulator.py       # Multi-dimensional random walks
 ├── requirements.txt               # Python dependencies
 └── README.md                      # Project documentation
 
@@ -104,16 +104,6 @@ trajectory = markov_chain(states, P, "Sunny", steps=20)
 ## ⚙️ Installation & Setup
 
 ```bash
-# Clone the repository
-git clone https://github.com/<yourusername>/stochastic-simulations.git
-cd stochastic-simulations
-
-# (Optional) Create virtual environment
-python -m venv .stoch-env
-# Activate the environment
-source .stoch-env/bin/activate      # macOS/Linux
-.stoch-env\Scripts\activate         # Windows
-
 # Install dependencies
 pip install -r requirements.txt
 ```
@@ -123,7 +113,8 @@ pip install -r requirements.txt
 * `numpy`
 * `matplotlib`
 * `networkx`
-* `scipy`
+* `imageio`
+* `pillow`
 
 ---
 
